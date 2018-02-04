@@ -1,0 +1,111 @@
+[
+  {
+    "name": "GW41",
+    "author": "GW"
+  },
+  [
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "Esc\n\n\n\n\n\nPrtSc",
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        2
+      ]
+    },
+    "Q\n\n\n1\n\n\nF1",
+    "W\n\n\n2\n\n\nF2",
+    "E\n\n\n3\n\n\nF3",
+    "R\n\n\n4\n\n\nF4",
+    "T\n\n\n5\n\n\nF5",
+    "Y\n\n\n6\n\n\nF6",
+    "U\n\n\n7\n\n\nF7",
+    "I\n\n\n8\n\n\nF8",
+    "O\n\n\n9\n\n\nF9",
+    "P\n\n\n0\n\n\nF10",
+    {
+      "w": 1.25
+    },
+    "Backspace\n\n\n\n\n\nDel"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Tab\n\n\nCaps",
+    "A\n\n\n\n\n\nLeft",
+    "S\n\n\n\n\n\nDown",
+    "D\n\n\n\n\n\nUp",
+    "F\n\n\n\n\n\nRight",
+    "G",
+    "H",
+    "J\n\n\n-",
+    "K\n\n\n[",
+    "L\n\n\n]\n\n\nF11",
+    "\"\n'\n\n;\n\n\nF12",
+    "Enter\n\n\n\n\n\nIns"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Shift",
+    "Z\n\n\n\n\n\nHome",
+    "X\n\n\n\n\n\nPgDn",
+    "C\n\n\n\n\n\nPgUp",
+    "V\n\n\n\n\n\nEnd",
+    "B",
+    "N\n\n\n\\",
+    "M\n\n\n=",
+    "<\n,\n\n`",
+    ">\n.\n\n/",
+    {
+      "w": 1.5
+    },
+    "Shift"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    "GUI",
+    "Alt",
+    {
+      "w": 1.25
+    },
+    "Fn1",
+    {
+      "a": 7,
+      "f": 1,
+      "w": 1.75
+    },
+    "",
+    {
+      "f": 3,
+      "w": 2
+    },
+    "",
+    {
+      "a": 4
+    },
+    "Fn2",
+    "Alt",
+    "GUI",
+    "Ctrl"
+  ]
+]
